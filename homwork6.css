@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div.box1 {
+  float: left;
+  background-color: white;
+  width: 150px;
+  height: 180px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 8px 15px 15px 8px;
+}
+div.box2 {
+  float: left;
+  background-color: red;
+  width: 400px;
+  height: 400px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 8px 8px 15px 0px;
+}
+
+div.box3 {
+  float: left;
+  position: absolute;
+  top: 180px;
+  background-color: white;
+  width: 150px;
+  height: 220px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 8px 15px 15px 8px;
+}
+div.box4 {
+  float: left;
+  position: absolute;
+  top: 400px;
+  background-color: rgb(50, 128, 167);
+  width: 150px;
+  height: 180px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 0px 15px 8px 8px;
+}
+div.box5 {
+  position: absolute;
+  top: 400px;
+  left: 150px;
+  background-color: white;
+  width: 332px;
+  height: 180px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 0px 15px 8px 0px;
+}
+div.box6 {
+  float: left;
+  position: absolute;
+  top: 400px;
+  left: 482px;
+  background-color: white;
+  width: 20px;
+  height: 89px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 0px 8px 8px 0px;
+}
+div.box7 {
+  float: left;
+  position: absolute;
+  top: 487px;
+  left: 482px;
+  background-color: yellow;
+  width: 20px;
+  height: 93px;
+  padding: 30px;
+  border-style: solid;
+  border-width: 8px 8px 8px 0px;
+}
